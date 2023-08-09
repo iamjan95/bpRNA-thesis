@@ -1,0 +1,34 @@
+﻿  Align.cpp
+C:\Users\iamja\source\repos\align\align\Align.cpp(98,79): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\iamja\source\repos\align\align\Align.cpp(99,74): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\iamja\source\repos\align\align\Align.cpp(100,74): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\iamja\source\repos\align\align\Align.cpp(104,23): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\iamja\source\repos\align\align\Align.cpp(105,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\iamja\source\repos\align\align\Align.cpp(106,19): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\iamja\source\repos\align\align\Align.cpp(304,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\iamja\source\repos\align\align\Align.cpp(305,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  align.vcxproj -> C:\Users\iamja\source\repos\align\x64\Debug\align.exe

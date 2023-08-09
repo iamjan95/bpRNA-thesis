@@ -1,0 +1,58 @@
+﻿  FileInputs.cpp
+C:\Users\iamja\source\repos\bprna\bprna\FileInputs.cpp(63,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  bpRNASequencer.cpp
+C:\Users\iamja\source\repos\bprna\bprna\fileInputs.cpp(63,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(265,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(266,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(277,1): warning C4267: 'argument': conversion from 'size_t' to 'const _Kty', possible loss of data
+          with
+          [
+              _Kty=int
+          ]
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(281,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(368,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(392,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(418,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(419,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(420,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(444,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(453,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(454,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNASequencer.cpp(474,62): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\iamja\source\repos\bprna\bprna\fileInputs.cpp(63,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(265,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(266,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(277,1): warning C4267: 'argument': conversion from 'size_t' to 'const _Kty', possible loss of data
+          with
+          [
+              _Kty=int
+          ]
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(281,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(368,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(392,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(418,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(419,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(420,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(444,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(453,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(454,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\iamja\source\repos\bprna\bprna\bpRNAsequencer.cpp(474,62): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  bprna.vcxproj -> C:\Users\iamja\source\repos\bprna\x64\Debug\bprna.exe
